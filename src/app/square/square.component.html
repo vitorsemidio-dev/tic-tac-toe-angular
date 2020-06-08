@@ -1,3 +1,11 @@
-<button>
+<button nbButton status="warning" *ngIf="!value" >
+  {{ value }}
+</button>
+
+<button nbButton hero *ngIf="value == 'X'"  status="success">
+  {{ value }}
+</button>
+
+<button nbButton hero *ngIf="value == 'O'"  status="info">
   {{ value }}
 </button>
