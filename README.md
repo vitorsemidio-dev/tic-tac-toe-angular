@@ -1,27 +1,48 @@
-# TicTacToePwa
+# Tic Tac Toe Angular 🎮
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.6.
+![](.github/angular.svg)
+<img src=".github/badge-eva.png" alt="Eva Design System" height="20px" />
 
-## Development server
+## 🕹️ Sobre o game
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Game **`Tic Tac Toe`** foi desenvolvido utilizando Angular e design do Nebular.
 
-## Code scaffolding
+---
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 🧭 Rodando o Game
 
-## Build
+  ```bash
+  # Clone este repositório
+  $ git clone https://github.com/vitorsemidio-dev/tic-tac-toe-angular.git
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+  # Mude para a pasta do projeto
+  $ cd tic-tac-toe-angular
 
-## Running unit tests
+  # Rode o projeto
+  $ ng server -o
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+  # O projeto irá abrir em http://localhost:4200
+  ```
+---
 
-## Running end-to-end tests
+## 🎲 Antes da partida
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+![](.github/TicTacToePwa01.png)
 
-## Further help
+---
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## 🏆 Vencedor
+
+![](.github/TicTacToePwa02.png)
+
+---
+
+## 📚 Referências
+
+- [Video](https://www.youtube.com/watch?v=G0bBLvWXBvc) 📹
+- [Nebular](https://github.com/akveo/nebular) 🔖
+
+
+## 📝 Licença
+
+Acesse [MIT](https://github.com/vitorsemidio-dev/tic-tac-toe-angular/blob/master/LICENSE) para mais informações.
